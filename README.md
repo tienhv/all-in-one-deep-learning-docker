@@ -1,3 +1,4 @@
+## I had edited it for my personal purpose: updated to an extended caffe version (add new features to caffe), updated to ubuntu 16.04, install torch successfully
 ## All-in-one Docker image for Deep Learning
 Here are Dockerfiles to get you up and running with a fully functional deep learning machine. It contains all the popular deep learning frameworks with CPU and GPU support (CUDA and cuDNN included). The CPU version should work on Linux, Windows and OS X. The GPU version will, however, only work on Linux machines. See [OS support](#what-operating-systems-are-supported) for details
 
