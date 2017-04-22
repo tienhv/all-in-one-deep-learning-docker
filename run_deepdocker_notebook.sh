@@ -1,0 +1,2 @@
+#docker run --rm -it  -p 127.0.0.1:8888:8888 deepdocker sh -c 'jupyter notebook --allow-root  --ip=0.0.0.0'
+docker run --rm -it -p 8888:8888 -v ~/Downloads/git/working/extract_web/TextMaps/:/workspace deepdocker sh -c "jupyter notebook --ip=0.0.0.0 --allow-root"
